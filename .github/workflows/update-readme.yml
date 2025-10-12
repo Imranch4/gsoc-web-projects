@@ -1,0 +1,31 @@
+name: Update GSoC README
+on:
+  schedule:
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Update README
+      run: python gsoc_readme.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "imranbtk201@gmail.com"
+        git config --local user.name "Imranch4"
+        git add README.md gsoc_*.json
+        git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update GSoC organizations"
+        git push
