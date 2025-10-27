@@ -1,19 +1,11 @@
 [
   {
-    "name": "MZmine and MS-DIAL",
-    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/mzmine-and-ms-dial",
-    "description": "",
-    "technologies": "HTML",
-    "website_url": "https://mzmine-ms-dial-gsoc.github.io/",
-    "slug": "mzmine-and-ms-dial"
-  },
-  {
-    "name": "BRL-CAD",
-    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/brl-cad",
+    "name": "The ENIGMA Team",
+    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/the-enigma-team",
     "description": "",
     "technologies": "JavaScript",
-    "website_url": "https://opencax.github.io/",
-    "slug": "brl-cad"
+    "website_url": "https://enigma-dev.org",
+    "slug": "the-enigma-team"
   },
   {
     "name": "Git",
@@ -24,12 +16,20 @@
     "slug": "git"
   },
   {
-    "name": "The ENIGMA Team",
-    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/the-enigma-team",
+    "name": "BRL-CAD",
+    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/brl-cad",
     "description": "",
     "technologies": "JavaScript",
-    "website_url": "https://enigma-dev.org",
-    "slug": "the-enigma-team"
+    "website_url": "https://opencax.github.io/",
+    "slug": "brl-cad"
+  },
+  {
+    "name": "Jenkins",
+    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/jenkins-wp",
+    "description": "",
+    "technologies": "JavaScript",
+    "website_url": "https://jenkins.io",
+    "slug": "jenkins-wp"
   },
   {
     "name": "Plone Foundation",
@@ -40,44 +40,12 @@
     "slug": "plone-foundation"
   },
   {
-    "name": "Python Software Foundation",
-    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/python-software-foundation",
+    "name": "freifunk",
+    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/freifunk",
     "description": "",
-    "technologies": "HTML",
-    "website_url": "https://python-gsoc.org/",
-    "slug": "python-software-foundation"
-  },
-  {
-    "name": "Django Software Foundation",
-    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/django-software-foundation-8o",
-    "description": "",
-    "technologies": "Django",
-    "website_url": "https://www.djangoproject.com",
-    "slug": "django-software-foundation-8o"
-  },
-  {
-    "name": "JdeRobot",
-    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/jderobot",
-    "description": "",
-    "technologies": "JavaScript",
-    "website_url": "http://jderobot.github.io",
-    "slug": "jderobot"
-  },
-  {
-    "name": "caMicroscope",
-    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/camicroscope",
-    "description": "",
-    "technologies": "HTML",
-    "website_url": "https://camicroscope.github.io",
-    "slug": "camicroscope"
-  },
-  {
-    "name": "Processing Foundation",
-    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/processing-foundation",
-    "description": "",
-    "technologies": "JavaScript",
-    "website_url": "http://processingfoundation.org",
-    "slug": "processing-foundation"
+    "technologies": "Babel",
+    "website_url": "https://freifunk.net/en",
+    "slug": "freifunk"
   },
   {
     "name": "Apertium",
@@ -88,28 +56,20 @@
     "slug": "apertium"
   },
   {
-    "name": "MetaCall",
-    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/metacall",
+    "name": "rocket.chat",
+    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/rocketchat",
     "description": "",
-    "technologies": "Node.js",
-    "website_url": "https://metacall.io",
-    "slug": "metacall"
+    "technologies": "Node.js, TypeScript",
+    "website_url": "https://github.com/RocketChat",
+    "slug": "rocketchat"
   },
   {
-    "name": "freifunk",
-    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/freifunk",
+    "name": "Django Software Foundation",
+    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/django-software-foundation-8o",
     "description": "",
-    "technologies": "Babel",
-    "website_url": "https://freifunk.net/en",
-    "slug": "freifunk"
-  },
-  {
-    "name": "National Resource for Network Biology (NRNB)",
-    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/national-resource-for-network-biology-nrnb",
-    "description": "",
-    "technologies": "HTML",
-    "website_url": "https://nrnb.org/gsoc.html",
-    "slug": "national-resource-for-network-biology-nrnb"
+    "technologies": "Django",
+    "website_url": "https://www.djangoproject.com",
+    "slug": "django-software-foundation-8o"
   },
   {
     "name": "Purr Data",
@@ -128,6 +88,22 @@
     "slug": "aossie"
   },
   {
+    "name": "Processing Foundation",
+    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/processing-foundation",
+    "description": "",
+    "technologies": "JavaScript",
+    "website_url": "http://processingfoundation.org",
+    "slug": "processing-foundation"
+  },
+  {
+    "name": "MetaCall",
+    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/metacall",
+    "description": "",
+    "technologies": "Node.js",
+    "website_url": "https://metacall.io",
+    "slug": "metacall"
+  },
+  {
     "name": "Open Chemistry",
     "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/open-chemistry",
     "description": "",
@@ -136,28 +112,20 @@
     "slug": "open-chemistry"
   },
   {
-    "name": "Jenkins",
-    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/jenkins-wp",
+    "name": "JdeRobot",
+    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/jderobot",
     "description": "",
     "technologies": "JavaScript",
-    "website_url": "https://jenkins.io",
-    "slug": "jenkins-wp"
+    "website_url": "http://jderobot.github.io",
+    "slug": "jderobot"
   },
   {
-    "name": "rocket.chat",
-    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/rocketchat",
-    "description": "",
-    "technologies": "Node.js, TypeScript",
-    "website_url": "https://github.com/RocketChat",
-    "slug": "rocketchat"
-  },
-  {
-    "name": "OpenAstronomy",
-    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/openastronomy",
+    "name": "Python Software Foundation",
+    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/python-software-foundation",
     "description": "",
     "technologies": "HTML",
-    "website_url": "https://openastronomy.org/",
-    "slug": "openastronomy"
+    "website_url": "https://python-gsoc.org/",
+    "slug": "python-software-foundation"
   },
   {
     "name": "XWiki",
@@ -166,5 +134,37 @@
     "technologies": "CSS, HTML, JavaScript",
     "website_url": "https://www.xwiki.org/",
     "slug": "xwiki"
+  },
+  {
+    "name": "MZmine and MS-DIAL",
+    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/mzmine-and-ms-dial",
+    "description": "",
+    "technologies": "HTML",
+    "website_url": "https://mzmine-ms-dial-gsoc.github.io/",
+    "slug": "mzmine-and-ms-dial"
+  },
+  {
+    "name": "caMicroscope",
+    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/camicroscope",
+    "description": "",
+    "technologies": "HTML",
+    "website_url": "https://camicroscope.github.io",
+    "slug": "camicroscope"
+  },
+  {
+    "name": "National Resource for Network Biology (NRNB)",
+    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/national-resource-for-network-biology-nrnb",
+    "description": "",
+    "technologies": "HTML",
+    "website_url": "https://nrnb.org/gsoc.html",
+    "slug": "national-resource-for-network-biology-nrnb"
+  },
+  {
+    "name": "OpenAstronomy",
+    "url": "https://summerofcode.withgoogle.com/programs/2023/organizations/openastronomy",
+    "description": "",
+    "technologies": "HTML",
+    "website_url": "https://openastronomy.org/",
+    "slug": "openastronomy"
   }
 ]
