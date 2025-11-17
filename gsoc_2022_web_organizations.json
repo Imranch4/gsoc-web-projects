@@ -1,91 +1,43 @@
 [
   {
-    "name": "OpenAstronomy",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/openastronomy",
+    "name": "Casbin",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/casbin",
     "description": "",
-    "technologies": "HTML",
-    "website_url": "https://openastronomy.org/",
-    "slug": "openastronomy"
+    "technologies": "JavaScript, Node.js",
+    "website_url": "https://casbin.org",
+    "slug": "casbin"
   },
   {
-    "name": "BRL-CAD",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/brl-cad",
+    "name": "Django Software Foundation",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/django-software-foundation-8o",
     "description": "",
-    "technologies": "JavaScript",
-    "website_url": "https://opencax.github.io/",
-    "slug": "brl-cad"
+    "technologies": "Django",
+    "website_url": "https://www.djangoproject.com",
+    "slug": "django-software-foundation-8o"
   },
   {
-    "name": "freifunk",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/freifunk",
+    "name": "Git",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/git",
     "description": "",
-    "technologies": "Babel",
-    "website_url": "https://freifunk.net/en",
-    "slug": "freifunk"
+    "technologies": "Ruby on Rails",
+    "website_url": "https://git-scm.com/",
+    "slug": "git"
   },
   {
-    "name": "Processing Foundation",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/processing-foundation",
+    "name": "Electron",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/electron",
     "description": "",
-    "technologies": "JavaScript",
-    "website_url": "http://processingfoundation.org",
-    "slug": "processing-foundation"
+    "technologies": "CSS, HTML, JavaScript, Node.js",
+    "website_url": "https://electronjs.org",
+    "slug": "electron"
   },
   {
-    "name": "Plone Foundation",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/plone-foundation",
+    "name": "Matrix.org",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/matrixorg",
     "description": "",
-    "technologies": "React",
-    "website_url": "https://plone.org",
-    "slug": "plone-foundation"
-  },
-  {
-    "name": "Jenkins",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/jenkins-wp",
-    "description": "",
-    "technologies": "JavaScript",
-    "website_url": "https://jenkins.io",
-    "slug": "jenkins-wp"
-  },
-  {
-    "name": "Forschungszentrum Jülich",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/forschungszentrum-julich",
-    "description": "",
-    "technologies": "Node.js",
-    "website_url": "https://fz-juelich.de/en",
-    "slug": "forschungszentrum-julich"
-  },
-  {
-    "name": "Open Chemistry",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/open-chemistry",
-    "description": "",
-    "technologies": "Babel",
-    "website_url": "https://openchemistry.org/",
-    "slug": "open-chemistry"
-  },
-  {
-    "name": "Python Software Foundation",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/python-software-foundation",
-    "description": "",
-    "technologies": "HTML",
-    "website_url": "https://python-gsoc.org/",
-    "slug": "python-software-foundation"
-  },
-  {
-    "name": "MetaCall",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/metacall",
-    "description": "",
-    "technologies": "Node.js",
-    "website_url": "https://metacall.io",
-    "slug": "metacall"
-  },
-  {
-    "name": "Godot Engine",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/godot-engine",
-    "description": "",
-    "technologies": "HTML",
-    "website_url": "https://godotengine.org",
-    "slug": "godot-engine"
+    "technologies": "WebRTC",
+    "website_url": "https://matrix.org",
+    "slug": "matrixorg"
   },
   {
     "name": "Joomla!",
@@ -96,28 +48,28 @@
     "slug": "joomla"
   },
   {
-    "name": "JBoss Community",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/jboss-community",
+    "name": "MetaCall",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/metacall",
     "description": "",
     "technologies": "Node.js",
-    "website_url": "http://www.jboss.org/",
-    "slug": "jboss-community"
+    "website_url": "https://metacall.io",
+    "slug": "metacall"
   },
   {
-    "name": "FRRouting",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/frrouting",
+    "name": "Polypheny",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/polypheny",
     "description": "",
-    "technologies": "Babel",
-    "website_url": "https://frrouting.org/",
-    "slug": "frrouting"
+    "technologies": "REST API",
+    "website_url": "https://polypheny.org",
+    "slug": "polypheny"
   },
   {
-    "name": "Haskell.org",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/haskellorg",
+    "name": "Jenkins",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/jenkins-wp",
     "description": "",
     "technologies": "JavaScript",
-    "website_url": "https://haskell.org/",
-    "slug": "haskellorg"
+    "website_url": "https://jenkins.io",
+    "slug": "jenkins-wp"
   },
   {
     "name": "syslog-ng",
@@ -136,6 +88,150 @@
     "slug": "xwiki"
   },
   {
+    "name": "FRRouting",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/frrouting",
+    "description": "",
+    "technologies": "Babel",
+    "website_url": "https://frrouting.org/",
+    "slug": "frrouting"
+  },
+  {
+    "name": "rocket.chat",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/rocketchat",
+    "description": "",
+    "technologies": "Node.js, TypeScript",
+    "website_url": "https://github.com/RocketChat",
+    "slug": "rocketchat"
+  },
+  {
+    "name": "Processing Foundation",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/processing-foundation",
+    "description": "",
+    "technologies": "JavaScript",
+    "website_url": "http://processingfoundation.org",
+    "slug": "processing-foundation"
+  },
+  {
+    "name": "JdeRobot",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/jderobot",
+    "description": "",
+    "technologies": "JavaScript",
+    "website_url": "http://jderobot.github.io",
+    "slug": "jderobot"
+  },
+  {
+    "name": "Godot Engine",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/godot-engine",
+    "description": "",
+    "technologies": "HTML",
+    "website_url": "https://godotengine.org",
+    "slug": "godot-engine"
+  },
+  {
+    "name": "Neutralinojs",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/neutralinojs",
+    "description": "",
+    "technologies": "CSS, HTML, JavaScript",
+    "website_url": "https://neutralino.js.org",
+    "slug": "neutralinojs"
+  },
+  {
+    "name": "Python Software Foundation",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/python-software-foundation",
+    "description": "",
+    "technologies": "HTML",
+    "website_url": "https://python-gsoc.org/",
+    "slug": "python-software-foundation"
+  },
+  {
+    "name": "Forschungszentrum Jülich",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/forschungszentrum-julich",
+    "description": "",
+    "technologies": "Node.js",
+    "website_url": "https://fz-juelich.de/en",
+    "slug": "forschungszentrum-julich"
+  },
+  {
+    "name": "OpenAstronomy",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/openastronomy",
+    "description": "",
+    "technologies": "HTML",
+    "website_url": "https://openastronomy.org/",
+    "slug": "openastronomy"
+  },
+  {
+    "name": "AOSSIE",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/aossie",
+    "description": "",
+    "technologies": "CSS, HTML, JavaScript, Jest, React",
+    "website_url": "https://www.aossie.org",
+    "slug": "aossie"
+  },
+  {
+    "name": "freifunk",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/freifunk",
+    "description": "",
+    "technologies": "Babel",
+    "website_url": "https://freifunk.net/en",
+    "slug": "freifunk"
+  },
+  {
+    "name": "SeaQL",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/seaql",
+    "description": "",
+    "technologies": "GraphQL",
+    "website_url": "https://www.sea-ql.org",
+    "slug": "seaql"
+  },
+  {
+    "name": "JBoss Community",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/jboss-community",
+    "description": "",
+    "technologies": "Node.js",
+    "website_url": "http://www.jboss.org/",
+    "slug": "jboss-community"
+  },
+  {
+    "name": "Plone Foundation",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/plone-foundation",
+    "description": "",
+    "technologies": "React",
+    "website_url": "https://plone.org",
+    "slug": "plone-foundation"
+  },
+  {
+    "name": "National Resource for Network Biology (NRNB)",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/national-resource-for-network-biology-nrnb",
+    "description": "",
+    "technologies": "HTML",
+    "website_url": "https://nrnb.org/gsoc.html",
+    "slug": "national-resource-for-network-biology-nrnb"
+  },
+  {
+    "name": "Haskell.org",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/haskellorg",
+    "description": "",
+    "technologies": "JavaScript",
+    "website_url": "https://haskell.org/",
+    "slug": "haskellorg"
+  },
+  {
+    "name": "Purr Data",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/purr-data",
+    "description": "",
+    "technologies": "HTML",
+    "website_url": "https://www.purrdata.net/",
+    "slug": "purr-data"
+  },
+  {
+    "name": "BRL-CAD",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/brl-cad",
+    "description": "",
+    "technologies": "JavaScript",
+    "website_url": "https://opencax.github.io/",
+    "slug": "brl-cad"
+  },
+  {
     "name": "Weaviate",
     "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/weaviate",
     "description": "",
@@ -152,107 +248,11 @@
     "slug": "the-enigma-team"
   },
   {
-    "name": "Electron",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/electron",
+    "name": "Open Chemistry",
+    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/open-chemistry",
     "description": "",
-    "technologies": "CSS, HTML, JavaScript, Node.js",
-    "website_url": "https://electronjs.org",
-    "slug": "electron"
-  },
-  {
-    "name": "Casbin",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/casbin",
-    "description": "",
-    "technologies": "JavaScript, Node.js",
-    "website_url": "https://casbin.org",
-    "slug": "casbin"
-  },
-  {
-    "name": "rocket.chat",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/rocketchat",
-    "description": "",
-    "technologies": "Node.js, TypeScript",
-    "website_url": "https://github.com/RocketChat",
-    "slug": "rocketchat"
-  },
-  {
-    "name": "Neutralinojs",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/neutralinojs",
-    "description": "",
-    "technologies": "CSS, HTML, JavaScript",
-    "website_url": "https://neutralino.js.org",
-    "slug": "neutralinojs"
-  },
-  {
-    "name": "Purr Data",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/purr-data",
-    "description": "",
-    "technologies": "HTML",
-    "website_url": "https://www.purrdata.net/",
-    "slug": "purr-data"
-  },
-  {
-    "name": "Polypheny",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/polypheny",
-    "description": "",
-    "technologies": "REST API",
-    "website_url": "https://polypheny.org",
-    "slug": "polypheny"
-  },
-  {
-    "name": "National Resource for Network Biology (NRNB)",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/national-resource-for-network-biology-nrnb",
-    "description": "",
-    "technologies": "HTML",
-    "website_url": "https://nrnb.org/gsoc.html",
-    "slug": "national-resource-for-network-biology-nrnb"
-  },
-  {
-    "name": "AOSSIE",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/aossie",
-    "description": "",
-    "technologies": "CSS, HTML, JavaScript, Jest, React",
-    "website_url": "https://www.aossie.org",
-    "slug": "aossie"
-  },
-  {
-    "name": "Matrix.org",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/matrixorg",
-    "description": "",
-    "technologies": "WebRTC",
-    "website_url": "https://matrix.org",
-    "slug": "matrixorg"
-  },
-  {
-    "name": "Django Software Foundation",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/django-software-foundation-8o",
-    "description": "",
-    "technologies": "Django",
-    "website_url": "https://www.djangoproject.com",
-    "slug": "django-software-foundation-8o"
-  },
-  {
-    "name": "JdeRobot",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/jderobot",
-    "description": "",
-    "technologies": "JavaScript",
-    "website_url": "http://jderobot.github.io",
-    "slug": "jderobot"
-  },
-  {
-    "name": "SeaQL",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/seaql",
-    "description": "",
-    "technologies": "GraphQL",
-    "website_url": "https://www.sea-ql.org",
-    "slug": "seaql"
-  },
-  {
-    "name": "Git",
-    "url": "https://summerofcode.withgoogle.com/programs/2022/organizations/git",
-    "description": "",
-    "technologies": "Ruby on Rails",
-    "website_url": "https://git-scm.com/",
-    "slug": "git"
+    "technologies": "Babel",
+    "website_url": "https://openchemistry.org/",
+    "slug": "open-chemistry"
   }
 ]
