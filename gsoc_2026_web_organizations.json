@@ -1,19 +1,27 @@
 [
   {
-    "name": "stdlib",
-    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/stdlib",
+    "name": "rocket.chat",
+    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/rocketchat",
     "description": "",
-    "technologies": "JavaScript, Node.js",
-    "website_url": "https://stdlib.io",
-    "slug": "stdlib"
+    "technologies": "Node.js, TypeScript",
+    "website_url": "https://github.com/RocketChat",
+    "slug": "rocketchat"
   },
   {
-    "name": "webpack",
-    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/webpack",
+    "name": "Git",
+    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/git",
     "description": "",
-    "technologies": "JavaScript, Node.js, REST API, Webpack",
-    "website_url": "https://webpack.js.org",
-    "slug": "webpack"
+    "technologies": "Ruby on Rails",
+    "website_url": "https://git-scm.com/",
+    "slug": "git"
+  },
+  {
+    "name": "Python Software Foundation",
+    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/python-software-foundation",
+    "description": "",
+    "technologies": "HTML",
+    "website_url": "https://python-gsoc.org/",
+    "slug": "python-software-foundation"
   },
   {
     "name": "Boa",
@@ -32,36 +40,36 @@
     "slug": "processing-foundation"
   },
   {
-    "name": "Django Software Foundation",
-    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/django-software-foundation-8o",
+    "name": "Open Science Initiative for Perfusion Imaging",
+    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/open-science-initiative-for-perfusion-imaging",
     "description": "",
-    "technologies": "Django",
-    "website_url": "https://www.djangoproject.com",
-    "slug": "django-software-foundation-8o"
+    "technologies": "Less",
+    "website_url": "https://osipi.ismrm.org/",
+    "slug": "open-science-initiative-for-perfusion-imaging"
   },
   {
-    "name": "Neutralinojs",
-    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/neutralinojs",
-    "description": "",
-    "technologies": "CSS, HTML, JavaScript",
-    "website_url": "https://neutralino.js.org",
-    "slug": "neutralinojs"
-  },
-  {
-    "name": "Alaska",
-    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/alaska",
-    "description": "",
-    "technologies": "REST API",
-    "website_url": "https://www.uaa.alaska.edu/research",
-    "slug": "alaska"
-  },
-  {
-    "name": "Haskell.org",
-    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/haskellorg",
+    "name": "JdeRobot",
+    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/jderobot",
     "description": "",
     "technologies": "JavaScript",
-    "website_url": "https://haskell.org/",
-    "slug": "haskellorg"
+    "website_url": "http://jderobot.github.io",
+    "slug": "jderobot"
+  },
+  {
+    "name": "API Dash",
+    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/api-dash",
+    "description": "",
+    "technologies": "GraphQL, Node.js, React, TypeScript",
+    "website_url": "https://apidash.dev",
+    "slug": "api-dash"
+  },
+  {
+    "name": "webpack",
+    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/webpack",
+    "description": "",
+    "technologies": "JavaScript, Node.js, REST API, Webpack",
+    "website_url": "https://webpack.js.org",
+    "slug": "webpack"
   },
   {
     "name": "Graphite",
@@ -72,6 +80,30 @@
     "slug": "graphite"
   },
   {
+    "name": "Django Software Foundation",
+    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/django-software-foundation-8o",
+    "description": "",
+    "technologies": "Django",
+    "website_url": "https://www.djangoproject.com",
+    "slug": "django-software-foundation-8o"
+  },
+  {
+    "name": "JBoss Community",
+    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/jboss-community",
+    "description": "",
+    "technologies": "Node.js",
+    "website_url": "http://www.jboss.org/",
+    "slug": "jboss-community"
+  },
+  {
+    "name": "Alaska",
+    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/alaska",
+    "description": "",
+    "technologies": "REST API",
+    "website_url": "https://www.uaa.alaska.edu/research",
+    "slug": "alaska"
+  },
+  {
     "name": "MetaCall",
     "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/metacall",
     "description": "",
@@ -80,28 +112,28 @@
     "slug": "metacall"
   },
   {
-    "name": "Joomla!",
-    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/joomla",
+    "name": "stdlib",
+    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/stdlib",
     "description": "",
-    "technologies": "HTML",
-    "website_url": "https://www.joomla.org/",
-    "slug": "joomla"
+    "technologies": "JavaScript, Node.js",
+    "website_url": "https://stdlib.io",
+    "slug": "stdlib"
   },
   {
-    "name": "OpenAstronomy",
-    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/openastronomy",
-    "description": "",
-    "technologies": "HTML",
-    "website_url": "https://openastronomy.org/",
-    "slug": "openastronomy"
-  },
-  {
-    "name": "JdeRobot",
-    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/jderobot",
+    "name": "Haskell.org",
+    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/haskellorg",
     "description": "",
     "technologies": "JavaScript",
-    "website_url": "http://jderobot.github.io",
-    "slug": "jderobot"
+    "website_url": "https://haskell.org/",
+    "slug": "haskellorg"
+  },
+  {
+    "name": "Neutralinojs",
+    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/neutralinojs",
+    "description": "",
+    "technologies": "CSS, HTML, JavaScript",
+    "website_url": "https://neutralino.js.org",
+    "slug": "neutralinojs"
   },
   {
     "name": "National Resource for Network Biology (NRNB)",
@@ -120,20 +152,12 @@
     "slug": "jenkins-wp"
   },
   {
-    "name": "API Dash",
-    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/api-dash",
+    "name": "OpenAstronomy",
+    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/openastronomy",
     "description": "",
-    "technologies": "GraphQL, Node.js, React, TypeScript",
-    "website_url": "https://apidash.dev",
-    "slug": "api-dash"
-  },
-  {
-    "name": "rocket.chat",
-    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/rocketchat",
-    "description": "",
-    "technologies": "Node.js, TypeScript",
-    "website_url": "https://github.com/RocketChat",
-    "slug": "rocketchat"
+    "technologies": "HTML",
+    "website_url": "https://openastronomy.org/",
+    "slug": "openastronomy"
   },
   {
     "name": "BRL-CAD",
@@ -144,35 +168,11 @@
     "slug": "brl-cad"
   },
   {
-    "name": "Python Software Foundation",
-    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/python-software-foundation",
+    "name": "Joomla!",
+    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/joomla",
     "description": "",
     "technologies": "HTML",
-    "website_url": "https://python-gsoc.org/",
-    "slug": "python-software-foundation"
-  },
-  {
-    "name": "JBoss Community",
-    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/jboss-community",
-    "description": "",
-    "technologies": "Node.js",
-    "website_url": "http://www.jboss.org/",
-    "slug": "jboss-community"
-  },
-  {
-    "name": "Git",
-    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/git",
-    "description": "",
-    "technologies": "Ruby on Rails",
-    "website_url": "https://git-scm.com/",
-    "slug": "git"
-  },
-  {
-    "name": "Open Science Initiative for Perfusion Imaging",
-    "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/open-science-initiative-for-perfusion-imaging",
-    "description": "",
-    "technologies": "Less",
-    "website_url": "https://osipi.ismrm.org/",
-    "slug": "open-science-initiative-for-perfusion-imaging"
+    "website_url": "https://www.joomla.org/",
+    "slug": "joomla"
   }
 ]
