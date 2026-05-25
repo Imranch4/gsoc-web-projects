@@ -1,75 +1,27 @@
 [
   {
-    "name": "Plone Foundation",
-    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/plone-foundation",
+    "name": "Purr Data",
+    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/purr-data",
     "description": "",
-    "technologies": "React",
-    "website_url": "https://plone.org",
-    "slug": "plone-foundation"
+    "technologies": "HTML",
+    "website_url": "https://www.purrdata.net/",
+    "slug": "purr-data"
   },
   {
-    "name": "API Dash",
-    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/api-dash",
+    "name": "Neutralinojs",
+    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/neutralinojs",
     "description": "",
-    "technologies": "GraphQL, Node.js, React, TypeScript",
-    "website_url": "https://apidash.dev",
-    "slug": "api-dash"
+    "technologies": "CSS, HTML, JavaScript",
+    "website_url": "https://neutralino.js.org",
+    "slug": "neutralinojs"
   },
   {
-    "name": "Open Chemistry",
-    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/open-chemistry",
+    "name": "National Resource for Network Biology (NRNB)",
+    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/national-resource-for-network-biology-nrnb",
     "description": "",
-    "technologies": "Babel",
-    "website_url": "https://openchemistry.org/",
-    "slug": "open-chemistry"
-  },
-  {
-    "name": "Haskell.org",
-    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/haskellorg",
-    "description": "",
-    "technologies": "JavaScript",
-    "website_url": "https://haskell.org/",
-    "slug": "haskellorg"
-  },
-  {
-    "name": "Django Software Foundation",
-    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/django-software-foundation-8o",
-    "description": "",
-    "technologies": "Django",
-    "website_url": "https://www.djangoproject.com",
-    "slug": "django-software-foundation-8o"
-  },
-  {
-    "name": "rocket.chat",
-    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/rocketchat",
-    "description": "",
-    "technologies": "Node.js, TypeScript",
-    "website_url": "https://github.com/RocketChat",
-    "slug": "rocketchat"
-  },
-  {
-    "name": "Graphite",
-    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/graphite",
-    "description": "",
-    "technologies": "Node.js",
-    "website_url": "https://graphite.art",
-    "slug": "graphite"
-  },
-  {
-    "name": "Open Science Initiative for Perfusion Imaging",
-    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/open-science-initiative-for-perfusion-imaging",
-    "description": "",
-    "technologies": "Less",
-    "website_url": "https://osipi.ismrm.org/",
-    "slug": "open-science-initiative-for-perfusion-imaging"
-  },
-  {
-    "name": "freifunk",
-    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/freifunk",
-    "description": "",
-    "technologies": "Babel",
-    "website_url": "https://freifunk.net/en",
-    "slug": "freifunk"
+    "technologies": "HTML",
+    "website_url": "https://nrnb.org",
+    "slug": "national-resource-for-network-biology-nrnb"
   },
   {
     "name": "Polypheny",
@@ -80,36 +32,52 @@
     "slug": "polypheny"
   },
   {
+    "name": "API Dash",
+    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/api-dash",
+    "description": "",
+    "technologies": "GraphQL, Node.js, React, TypeScript",
+    "website_url": "https://apidash.dev",
+    "slug": "api-dash"
+  },
+  {
+    "name": "webpack",
+    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/webpack",
+    "description": "",
+    "technologies": "JavaScript, Node.js, REST API, Webpack",
+    "website_url": "https://webpack.js.org",
+    "slug": "webpack"
+  },
+  {
+    "name": "MetaCall",
+    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/metacall",
+    "description": "",
+    "technologies": "Node.js",
+    "website_url": "https://metacall.io",
+    "slug": "metacall"
+  },
+  {
+    "name": "Graphite",
+    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/graphite",
+    "description": "",
+    "technologies": "Node.js",
+    "website_url": "https://graphite.art",
+    "slug": "graphite"
+  },
+  {
+    "name": "Open Chemistry",
+    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/open-chemistry",
+    "description": "",
+    "technologies": "Babel",
+    "website_url": "https://openchemistry.org/",
+    "slug": "open-chemistry"
+  },
+  {
     "name": "JdeRobot",
     "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/jderobot",
     "description": "",
     "technologies": "JavaScript",
     "website_url": "http://jderobot.github.io",
     "slug": "jderobot"
-  },
-  {
-    "name": "Nightwatch.js",
-    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/nightwatchjs",
-    "description": "",
-    "technologies": "Angular, JavaScript, Node.js, React, Vue.js",
-    "website_url": "https://nightwatchjs.org",
-    "slug": "nightwatchjs"
-  },
-  {
-    "name": "Purr Data",
-    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/purr-data",
-    "description": "",
-    "technologies": "HTML",
-    "website_url": "https://www.purrdata.net/",
-    "slug": "purr-data"
-  },
-  {
-    "name": "Apertium",
-    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/apertium",
-    "description": "",
-    "technologies": "Less",
-    "website_url": "https://apertium.org/",
-    "slug": "apertium"
   },
   {
     "name": "Alaska",
@@ -120,20 +88,36 @@
     "slug": "alaska"
   },
   {
-    "name": "OpenAstronomy",
-    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/openastronomy",
+    "name": "Plone Foundation",
+    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/plone-foundation",
     "description": "",
-    "technologies": "HTML",
-    "website_url": "https://openastronomy.org/",
-    "slug": "openastronomy"
+    "technologies": "React",
+    "website_url": "https://plone.org",
+    "slug": "plone-foundation"
   },
   {
-    "name": "Git",
-    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/git",
+    "name": "freifunk",
+    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/freifunk",
     "description": "",
-    "technologies": "Ruby on Rails",
-    "website_url": "https://git-scm.com/",
-    "slug": "git"
+    "technologies": "Babel",
+    "website_url": "https://freifunk.net/en",
+    "slug": "freifunk"
+  },
+  {
+    "name": "Nightwatch.js",
+    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/nightwatchjs",
+    "description": "",
+    "technologies": "Angular, JavaScript, Node.js, React, Vue.js",
+    "website_url": "https://nightwatchjs.org",
+    "slug": "nightwatchjs"
+  },
+  {
+    "name": "Python Software Foundation",
+    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/python-software-foundation",
+    "description": "",
+    "technologies": "HTML",
+    "website_url": "https://python-gsoc.org/",
+    "slug": "python-software-foundation"
   },
   {
     "name": "stdlib",
@@ -142,6 +126,70 @@
     "technologies": "JavaScript, Node.js",
     "website_url": "https://stdlib.io",
     "slug": "stdlib"
+  },
+  {
+    "name": "Haskell.org",
+    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/haskellorg",
+    "description": "",
+    "technologies": "JavaScript",
+    "website_url": "https://haskell.org/",
+    "slug": "haskellorg"
+  },
+  {
+    "name": "rocket.chat",
+    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/rocketchat",
+    "description": "",
+    "technologies": "Node.js, TypeScript",
+    "website_url": "https://github.com/RocketChat",
+    "slug": "rocketchat"
+  },
+  {
+    "name": "Jenkins",
+    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/jenkins-wp",
+    "description": "",
+    "technologies": "JavaScript",
+    "website_url": "https://jenkins.io",
+    "slug": "jenkins-wp"
+  },
+  {
+    "name": "Apertium",
+    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/apertium",
+    "description": "",
+    "technologies": "Less",
+    "website_url": "https://apertium.org/",
+    "slug": "apertium"
+  },
+  {
+    "name": "caMicroscope",
+    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/camicroscope",
+    "description": "",
+    "technologies": "HTML",
+    "website_url": "https://camicroscope.github.io",
+    "slug": "camicroscope"
+  },
+  {
+    "name": "Django Software Foundation",
+    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/django-software-foundation-8o",
+    "description": "",
+    "technologies": "Django",
+    "website_url": "https://www.djangoproject.com",
+    "slug": "django-software-foundation-8o"
+  },
+  {
+    "name": "OpenAstronomy",
+    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/openastronomy",
+    "description": "",
+    "technologies": "HTML",
+    "website_url": "https://openastronomy.org/",
+    "slug": "openastronomy"
+  },
+  {
+    "name": "Open Science Initiative for Perfusion Imaging",
+    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/open-science-initiative-for-perfusion-imaging",
+    "description": "",
+    "technologies": "Less",
+    "website_url": "https://osipi.ismrm.org/",
+    "slug": "open-science-initiative-for-perfusion-imaging"
   },
   {
     "name": "The ENIGMA Team",
@@ -160,38 +208,6 @@
     "slug": "electron"
   },
   {
-    "name": "caMicroscope",
-    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/camicroscope",
-    "description": "",
-    "technologies": "HTML",
-    "website_url": "https://camicroscope.github.io",
-    "slug": "camicroscope"
-  },
-  {
-    "name": "webpack",
-    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/webpack",
-    "description": "",
-    "technologies": "JavaScript, Node.js, REST API, Webpack",
-    "website_url": "https://webpack.js.org",
-    "slug": "webpack"
-  },
-  {
-    "name": "Python Software Foundation",
-    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/python-software-foundation",
-    "description": "",
-    "technologies": "HTML",
-    "website_url": "https://python-gsoc.org/",
-    "slug": "python-software-foundation"
-  },
-  {
-    "name": "MetaCall",
-    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/metacall",
-    "description": "",
-    "technologies": "Node.js",
-    "website_url": "https://metacall.io",
-    "slug": "metacall"
-  },
-  {
     "name": "BRL-CAD",
     "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/brl-cad",
     "description": "",
@@ -200,27 +216,11 @@
     "slug": "brl-cad"
   },
   {
-    "name": "Neutralinojs",
-    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/neutralinojs",
+    "name": "Git",
+    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/git",
     "description": "",
-    "technologies": "CSS, HTML, JavaScript",
-    "website_url": "https://neutralino.js.org",
-    "slug": "neutralinojs"
-  },
-  {
-    "name": "Jenkins",
-    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/jenkins-wp",
-    "description": "",
-    "technologies": "JavaScript",
-    "website_url": "https://jenkins.io",
-    "slug": "jenkins-wp"
-  },
-  {
-    "name": "National Resource for Network Biology (NRNB)",
-    "url": "https://summerofcode.withgoogle.com/programs/2024/organizations/national-resource-for-network-biology-nrnb",
-    "description": "",
-    "technologies": "HTML",
-    "website_url": "https://nrnb.org",
-    "slug": "national-resource-for-network-biology-nrnb"
+    "technologies": "Ruby on Rails",
+    "website_url": "https://git-scm.com/",
+    "slug": "git"
   }
 ]
