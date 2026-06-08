@@ -18,7 +18,7 @@
 - **GSoC 2023**: 20 organizations with web projects
 - **GSoC 2022**: 31 organizations with web projects
 
-> 🔄 **Auto-updates weekly** | 📅 Last updated: 2026-06-01 10:51:35
+> 🔄 **Auto-updates weekly** | 📅 Last updated: 2026-06-08 10:40:55
 
 ## 🚀 GSoC 2026 - Web Development Organizations
 
@@ -26,28 +26,28 @@
 
 | No. | Organization | Web Technologies |
 |-----|--------------|------------------|
-| 1. | [rocket.chat](#2026-rocketchat) | Node.js, TypeScript |
-| 2. | [Graphite](#2026-graphite) | Node.js |
-| 3. | [MetaCall](#2026-metacall) | Node.js |
-| 4. | [BRL-CAD](#2026-brl-cad) | JavaScript |
-| 5. | [Neutralinojs](#2026-neutralinojs) | CSS, HTML, JavaScript |
-| 6. | [Jenkins](#2026-jenkins) | JavaScript |
-| 7. | [Open Science Initiative for Perfusion Imaging](#2026-open-science-initiative-for-perfusion-imaging) | Less |
-| 8. | [API Dash](#2026-api-dash) | GraphQL, Node.js, React, TypeScript |
-| 9. | [Haskell.org](#2026-haskellorg) | JavaScript |
-| 10. | [Python Software Foundation](#2026-python-software-foundation) | HTML |
-| 11. | [Git](#2026-git) | Ruby on Rails |
+| 1. | [Open Science Initiative for Perfusion Imaging](#2026-open-science-initiative-for-perfusion-imaging) | Less |
+| 2. | [Neutralinojs](#2026-neutralinojs) | CSS, HTML, JavaScript |
+| 3. | [Graphite](#2026-graphite) | Node.js |
+| 4. | [Joomla!](#2026-joomla!) | HTML |
+| 5. | [National Resource for Network Biology (NRNB)](#2026-national-resource-for-network-biology-(nrnb)) | HTML |
+| 6. | [Boa](#2026-boa) | JavaScript, Node.js |
+| 7. | [stdlib](#2026-stdlib) | JavaScript, Node.js |
+| 8. | [Git](#2026-git) | Ruby on Rails |
+| 9. | [Alaska](#2026-alaska) | REST API |
+| 10. | [JdeRobot](#2026-jderobot) | JavaScript |
+| 11. | [webpack](#2026-webpack) | JavaScript, Node.js, REST API, Webpack |
 | 12. | [JBoss Community](#2026-jboss-community) | Node.js |
-| 13. | [stdlib](#2026-stdlib) | JavaScript, Node.js |
-| 14. | [webpack](#2026-webpack) | JavaScript, Node.js, REST API, Webpack |
-| 15. | [OpenAstronomy](#2026-openastronomy) | HTML |
-| 16. | [Boa](#2026-boa) | JavaScript, Node.js |
-| 17. | [Alaska](#2026-alaska) | REST API |
-| 18. | [Processing Foundation](#2026-processing-foundation) | JavaScript |
-| 19. | [Django Software Foundation](#2026-django-software-foundation) | Django |
-| 20. | [JdeRobot](#2026-jderobot) | JavaScript |
-| 21. | [National Resource for Network Biology (NRNB)](#2026-national-resource-for-network-biology-(nrnb)) | HTML |
-| 22. | [Joomla!](#2026-joomla!) | HTML |
+| 13. | [Jenkins](#2026-jenkins) | JavaScript |
+| 14. | [OpenAstronomy](#2026-openastronomy) | HTML |
+| 15. | [BRL-CAD](#2026-brl-cad) | JavaScript |
+| 16. | [Django Software Foundation](#2026-django-software-foundation) | Django |
+| 17. | [Processing Foundation](#2026-processing-foundation) | JavaScript |
+| 18. | [API Dash](#2026-api-dash) | GraphQL, Node.js, React, TypeScript |
+| 19. | [Haskell.org](#2026-haskellorg) | JavaScript |
+| 20. | [Python Software Foundation](#2026-python-software-foundation) | HTML |
+| 21. | [MetaCall](#2026-metacall) | Node.js |
+| 22. | [rocket.chat](#2026-rocketchat) | Node.js, TypeScript |
 
 <br>
 
@@ -58,27 +58,27 @@
 | No. | Organization | Web Technologies |
 |-----|--------------|------------------|
 | 1. | [National Resource for Network Biology (NRNB)](#2025-national-resource-for-network-biology-(nrnb)) | HTML |
-| 2. | [stdlib](#2025-stdlib) | JavaScript, Node.js |
-| 3. | [BRL-CAD](#2025-brl-cad) | JavaScript |
-| 4. | [Open Science Initiative for Perfusion Imaging](#2025-open-science-initiative-for-perfusion-imaging) | Less |
+| 2. | [OpenAstronomy](#2025-openastronomy) | HTML |
+| 3. | [Haskell.org](#2025-haskellorg) | JavaScript |
+| 4. | [JdeRobot](#2025-jderobot) | JavaScript |
 | 5. | [Graphite](#2025-graphite) | Node.js |
-| 6. | [freifunk](#2025-freifunk) | Babel |
-| 7. | [Plone Foundation](#2025-plone-foundation) | React |
-| 8. | [Alaska](#2025-alaska) | REST API |
-| 9. | [Checker Framework](#2025-checker-framework) | HTML |
-| 10. | [rocket.chat](#2025-rocketchat) | Node.js, TypeScript |
+| 6. | [Alaska](#2025-alaska) | REST API |
+| 7. | [Git](#2025-git) | Ruby on Rails |
+| 8. | [Jenkins](#2025-jenkins) | JavaScript |
+| 9. | [Python Software Foundation](#2025-python-software-foundation) | HTML |
+| 10. | [BRL-CAD](#2025-brl-cad) | JavaScript |
 | 11. | [Django Software Foundation](#2025-django-software-foundation) | Django |
-| 12. | [Jenkins](#2025-jenkins) | JavaScript |
-| 13. | [API Dash](#2025-api-dash) | GraphQL, Node.js, React, TypeScript |
-| 14. | [Joomla!](#2025-joomla!) | HTML |
-| 15. | [Processing Foundation](#2025-processing-foundation) | JavaScript |
-| 16. | [Python Software Foundation](#2025-python-software-foundation) | HTML |
-| 17. | [Git](#2025-git) | Ruby on Rails |
-| 18. | [OpenAstronomy](#2025-openastronomy) | HTML |
-| 19. | [webpack](#2025-webpack) | JavaScript, Node.js, REST API, Webpack |
-| 20. | [Haskell.org](#2025-haskellorg) | JavaScript |
-| 21. | [JdeRobot](#2025-jderobot) | JavaScript |
-| 22. | [Electron](#2025-electron) | CSS, HTML, JavaScript, Node.js |
+| 12. | [Processing Foundation](#2025-processing-foundation) | JavaScript |
+| 13. | [Plone Foundation](#2025-plone-foundation) | React |
+| 14. | [API Dash](#2025-api-dash) | GraphQL, Node.js, React, TypeScript |
+| 15. | [Joomla!](#2025-joomla!) | HTML |
+| 16. | [freifunk](#2025-freifunk) | Babel |
+| 17. | [Electron](#2025-electron) | CSS, HTML, JavaScript, Node.js |
+| 18. | [rocket.chat](#2025-rocketchat) | Node.js, TypeScript |
+| 19. | [stdlib](#2025-stdlib) | JavaScript, Node.js |
+| 20. | [Checker Framework](#2025-checker-framework) | HTML |
+| 21. | [webpack](#2025-webpack) | JavaScript, Node.js, REST API, Webpack |
+| 22. | [Open Science Initiative for Perfusion Imaging](#2025-open-science-initiative-for-perfusion-imaging) | Less |
 
 <br>
 
@@ -88,34 +88,34 @@
 
 | No. | Organization | Web Technologies |
 |-----|--------------|------------------|
-| 1. | [rocket.chat](#2024-rocketchat) | Node.js, TypeScript |
-| 2. | [JdeRobot](#2024-jderobot) | JavaScript |
-| 3. | [API Dash](#2024-api-dash) | GraphQL, Node.js, React, TypeScript |
-| 4. | [Alaska](#2024-alaska) | REST API |
-| 5. | [Haskell.org](#2024-haskellorg) | JavaScript |
-| 6. | [National Resource for Network Biology (NRNB)](#2024-national-resource-for-network-biology-(nrnb)) | HTML |
-| 7. | [Nightwatch.js](#2024-nightwatchjs) | Angular, JavaScript, Node.js, React, Vue.js |
-| 8. | [OpenAstronomy](#2024-openastronomy) | HTML |
-| 9. | [freifunk](#2024-freifunk) | Babel |
-| 10. | [Open Chemistry](#2024-open-chemistry) | Babel |
-| 11. | [Jenkins](#2024-jenkins) | JavaScript |
-| 12. | [Polypheny](#2024-polypheny) | REST API |
-| 13. | [Neutralinojs](#2024-neutralinojs) | CSS, HTML, JavaScript |
-| 14. | [Apertium](#2024-apertium) | Less |
-| 15. | [MetaCall](#2024-metacall) | Node.js |
-| 16. | [caMicroscope](#2024-camicroscope) | HTML |
-| 17. | [stdlib](#2024-stdlib) | JavaScript, Node.js |
-| 18. | [Plone Foundation](#2024-plone-foundation) | React |
-| 19. | [BRL-CAD](#2024-brl-cad) | JavaScript |
-| 20. | [Purr Data](#2024-purr-data) | HTML |
-| 21. | [Python Software Foundation](#2024-python-software-foundation) | HTML |
-| 22. | [Electron](#2024-electron) | CSS, HTML, JavaScript, Node.js |
-| 23. | [The ENIGMA Team](#2024-the-enigma-team) | JavaScript |
-| 24. | [Django Software Foundation](#2024-django-software-foundation) | Django |
-| 25. | [Open Science Initiative for Perfusion Imaging](#2024-open-science-initiative-for-perfusion-imaging) | Less |
-| 26. | [Git](#2024-git) | Ruby on Rails |
-| 27. | [Graphite](#2024-graphite) | Node.js |
-| 28. | [webpack](#2024-webpack) | JavaScript, Node.js, REST API, Webpack |
+| 1. | [The ENIGMA Team](#2024-the-enigma-team) | JavaScript |
+| 2. | [National Resource for Network Biology (NRNB)](#2024-national-resource-for-network-biology-(nrnb)) | HTML |
+| 3. | [Open Science Initiative for Perfusion Imaging](#2024-open-science-initiative-for-perfusion-imaging) | Less |
+| 4. | [Python Software Foundation](#2024-python-software-foundation) | HTML |
+| 5. | [Apertium](#2024-apertium) | Less |
+| 6. | [OpenAstronomy](#2024-openastronomy) | HTML |
+| 7. | [Haskell.org](#2024-haskellorg) | JavaScript |
+| 8. | [Git](#2024-git) | Ruby on Rails |
+| 9. | [Graphite](#2024-graphite) | Node.js |
+| 10. | [caMicroscope](#2024-camicroscope) | HTML |
+| 11. | [Polypheny](#2024-polypheny) | REST API |
+| 12. | [MetaCall](#2024-metacall) | Node.js |
+| 13. | [Plone Foundation](#2024-plone-foundation) | React |
+| 14. | [webpack](#2024-webpack) | JavaScript, Node.js, REST API, Webpack |
+| 15. | [Electron](#2024-electron) | CSS, HTML, JavaScript, Node.js |
+| 16. | [Purr Data](#2024-purr-data) | HTML |
+| 17. | [API Dash](#2024-api-dash) | GraphQL, Node.js, React, TypeScript |
+| 18. | [Nightwatch.js](#2024-nightwatchjs) | Angular, JavaScript, Node.js, React, Vue.js |
+| 19. | [rocket.chat](#2024-rocketchat) | Node.js, TypeScript |
+| 20. | [stdlib](#2024-stdlib) | JavaScript, Node.js |
+| 21. | [Jenkins](#2024-jenkins) | JavaScript |
+| 22. | [Django Software Foundation](#2024-django-software-foundation) | Django |
+| 23. | [Alaska](#2024-alaska) | REST API |
+| 24. | [BRL-CAD](#2024-brl-cad) | JavaScript |
+| 25. | [Open Chemistry](#2024-open-chemistry) | Babel |
+| 26. | [freifunk](#2024-freifunk) | Babel |
+| 27. | [JdeRobot](#2024-jderobot) | JavaScript |
+| 28. | [Neutralinojs](#2024-neutralinojs) | CSS, HTML, JavaScript |
 
 <br>
 
@@ -125,25 +125,25 @@
 
 | No. | Organization | Web Technologies |
 |-----|--------------|------------------|
-| 1. | [Jenkins](#2023-jenkins) | JavaScript |
-| 2. | [BRL-CAD](#2023-brl-cad) | JavaScript |
-| 3. | [Plone Foundation](#2023-plone-foundation) | React |
-| 4. | [Apertium](#2023-apertium) | Less |
-| 5. | [Processing Foundation](#2023-processing-foundation) | JavaScript |
-| 6. | [Purr Data](#2023-purr-data) | HTML |
-| 7. | [Open Chemistry](#2023-open-chemistry) | Babel |
-| 8. | [MZmine and MS-DIAL](#2023-mzmine-and-ms-dial) | HTML |
-| 9. | [The ENIGMA Team](#2023-the-enigma-team) | JavaScript |
-| 10. | [MetaCall](#2023-metacall) | Node.js |
-| 11. | [XWiki](#2023-xwiki) | CSS, HTML, JavaScript |
-| 12. | [National Resource for Network Biology (NRNB)](#2023-national-resource-for-network-biology-(nrnb)) | HTML |
-| 13. | [rocket.chat](#2023-rocketchat) | Node.js, TypeScript |
-| 14. | [Git](#2023-git) | Ruby on Rails |
+| 1. | [freifunk](#2023-freifunk) | Babel |
+| 2. | [Git](#2023-git) | Ruby on Rails |
+| 3. | [MZmine and MS-DIAL](#2023-mzmine-and-ms-dial) | HTML |
+| 4. | [BRL-CAD](#2023-brl-cad) | JavaScript |
+| 5. | [rocket.chat](#2023-rocketchat) | Node.js, TypeScript |
+| 6. | [Apertium](#2023-apertium) | Less |
+| 7. | [caMicroscope](#2023-camicroscope) | HTML |
+| 8. | [MetaCall](#2023-metacall) | Node.js |
+| 9. | [Django Software Foundation](#2023-django-software-foundation) | Django |
+| 10. | [Plone Foundation](#2023-plone-foundation) | React |
+| 11. | [The ENIGMA Team](#2023-the-enigma-team) | JavaScript |
+| 12. | [Processing Foundation](#2023-processing-foundation) | JavaScript |
+| 13. | [National Resource for Network Biology (NRNB)](#2023-national-resource-for-network-biology-(nrnb)) | HTML |
+| 14. | [Open Chemistry](#2023-open-chemistry) | Babel |
 | 15. | [Python Software Foundation](#2023-python-software-foundation) | HTML |
-| 16. | [JdeRobot](#2023-jderobot) | JavaScript |
-| 17. | [freifunk](#2023-freifunk) | Babel |
-| 18. | [caMicroscope](#2023-camicroscope) | HTML |
-| 19. | [Django Software Foundation](#2023-django-software-foundation) | Django |
+| 16. | [Purr Data](#2023-purr-data) | HTML |
+| 17. | [JdeRobot](#2023-jderobot) | JavaScript |
+| 18. | [Jenkins](#2023-jenkins) | JavaScript |
+| 19. | [XWiki](#2023-xwiki) | CSS, HTML, JavaScript |
 | 20. | [OpenAstronomy](#2023-openastronomy) | HTML |
 
 <br>
@@ -154,91 +154,43 @@
 
 | No. | Organization | Web Technologies |
 |-----|--------------|------------------|
-| 1. | [Polypheny](#2022-polypheny) | REST API |
-| 2. | [Weaviate](#2022-weaviate) | GraphQL, REST API |
-| 3. | [National Resource for Network Biology (NRNB)](#2022-national-resource-for-network-biology-(nrnb)) | HTML |
-| 4. | [Jenkins](#2022-jenkins) | JavaScript |
-| 5. | [Processing Foundation](#2022-processing-foundation) | JavaScript |
-| 6. | [Git](#2022-git) | Ruby on Rails |
-| 7. | [JdeRobot](#2022-jderobot) | JavaScript |
-| 8. | [Casbin](#2022-casbin) | JavaScript, Node.js |
-| 9. | [Open Chemistry](#2022-open-chemistry) | Babel |
-| 10. | [SeaQL](#2022-seaql) | GraphQL |
-| 11. | [Django Software Foundation](#2022-django-software-foundation) | Django |
-| 12. | [rocket.chat](#2022-rocketchat) | Node.js, TypeScript |
-| 13. | [Forschungszentrum Jülich](#2022-forschungszentrum-jülich) | Node.js |
-| 14. | [Haskell.org](#2022-haskellorg) | JavaScript |
-| 15. | [Python Software Foundation](#2022-python-software-foundation) | HTML |
-| 16. | [JBoss Community](#2022-jboss-community) | Node.js |
-| 17. | [Electron](#2022-electron) | CSS, HTML, JavaScript, Node.js |
-| 18. | [FRRouting](#2022-frrouting) | Babel |
-| 19. | [Purr Data](#2022-purr-data) | HTML |
-| 20. | [BRL-CAD](#2022-brl-cad) | JavaScript |
-| 21. | [Godot Engine](#2022-godot-engine) | HTML |
-| 22. | [Neutralinojs](#2022-neutralinojs) | CSS, HTML, JavaScript |
-| 23. | [Matrix.org](#2022-matrixorg) | WebRTC |
-| 24. | [MetaCall](#2022-metacall) | Node.js |
+| 1. | [OpenAstronomy](#2022-openastronomy) | HTML |
+| 2. | [Processing Foundation](#2022-processing-foundation) | JavaScript |
+| 3. | [Jenkins](#2022-jenkins) | JavaScript |
+| 4. | [MetaCall](#2022-metacall) | Node.js |
+| 5. | [freifunk](#2022-freifunk) | Babel |
+| 6. | [Haskell.org](#2022-haskellorg) | JavaScript |
+| 7. | [Polypheny](#2022-polypheny) | REST API |
+| 8. | [Django Software Foundation](#2022-django-software-foundation) | Django |
+| 9. | [SeaQL](#2022-seaql) | GraphQL |
+| 10. | [Forschungszentrum Jülich](#2022-forschungszentrum-jülich) | Node.js |
+| 11. | [The ENIGMA Team](#2022-the-enigma-team) | JavaScript |
+| 12. | [Git](#2022-git) | Ruby on Rails |
+| 13. | [syslog-ng](#2022-syslog-ng) | JavaScript, REST API |
+| 14. | [Open Chemistry](#2022-open-chemistry) | Babel |
+| 15. | [JBoss Community](#2022-jboss-community) | Node.js |
+| 16. | [Casbin](#2022-casbin) | JavaScript, Node.js |
+| 17. | [Neutralinojs](#2022-neutralinojs) | CSS, HTML, JavaScript |
+| 18. | [Plone Foundation](#2022-plone-foundation) | React |
+| 19. | [JdeRobot](#2022-jderobot) | JavaScript |
+| 20. | [Purr Data](#2022-purr-data) | HTML |
+| 21. | [Weaviate](#2022-weaviate) | GraphQL, REST API |
+| 22. | [rocket.chat](#2022-rocketchat) | Node.js, TypeScript |
+| 23. | [XWiki](#2022-xwiki) | CSS, HTML, JavaScript |
+| 24. | [FRRouting](#2022-frrouting) | Babel |
 | 25. | [Joomla!](#2022-joomla!) | HTML |
-| 26. | [freifunk](#2022-freifunk) | Babel |
-| 27. | [syslog-ng](#2022-syslog-ng) | JavaScript, REST API |
-| 28. | [XWiki](#2022-xwiki) | CSS, HTML, JavaScript |
-| 29. | [Plone Foundation](#2022-plone-foundation) | React |
-| 30. | [OpenAstronomy](#2022-openastronomy) | HTML |
-| 31. | [The ENIGMA Team](#2022-the-enigma-team) | JavaScript |
+| 26. | [Electron](#2022-electron) | CSS, HTML, JavaScript, Node.js |
+| 27. | [Godot Engine](#2022-godot-engine) | HTML |
+| 28. | [Python Software Foundation](#2022-python-software-foundation) | HTML |
+| 29. | [National Resource for Network Biology (NRNB)](#2022-national-resource-for-network-biology-(nrnb)) | HTML |
+| 30. | [Matrix.org](#2022-matrixorg) | WebRTC |
+| 31. | [BRL-CAD](#2022-brl-cad) | JavaScript |
 
 <br>
 
 ## 📋 GSoC 2026 - Organization Details
 
-### 1. rocket.chat {#2026-rocketchat}
-
-- **Technologies**: Node.js, TypeScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/rocketchat)
-- **Website**: [Visit Website](https://github.com/RocketChat)
-
-<br>
-
-### 2. Graphite {#2026-graphite}
-
-- **Technologies**: Node.js
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/graphite)
-- **Website**: [Visit Website](https://graphite.art)
-
-<br>
-
-### 3. MetaCall {#2026-metacall}
-
-- **Technologies**: Node.js
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/metacall)
-- **Website**: [Visit Website](https://metacall.io)
-
-<br>
-
-### 4. BRL-CAD {#2026-brl-cad}
-
-- **Technologies**: JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/brl-cad)
-- **Website**: [Visit Website](https://opencax.github.io/)
-
-<br>
-
-### 5. Neutralinojs {#2026-neutralinojs}
-
-- **Technologies**: CSS, HTML, JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/neutralinojs)
-- **Website**: [Visit Website](https://neutralino.js.org)
-
-<br>
-
-### 6. Jenkins {#2026-jenkins}
-
-- **Technologies**: JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/jenkins-wp)
-- **Website**: [Visit Website](https://jenkins.io)
-
-<br>
-
-### 7. Open Science Initiative for Perfusion Imaging {#2026-open-science-initiative-for-perfusion-imaging}
+### 1. Open Science Initiative for Perfusion Imaging {#2026-open-science-initiative-for-perfusion-imaging}
 
 - **Technologies**: Less
 - **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/open-science-initiative-for-perfusion-imaging)
@@ -246,35 +198,83 @@
 
 <br>
 
-### 8. API Dash {#2026-api-dash}
+### 2. Neutralinojs {#2026-neutralinojs}
 
-- **Technologies**: GraphQL, Node.js, React, TypeScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/api-dash)
-- **Website**: [Visit Website](https://apidash.dev)
-
-<br>
-
-### 9. Haskell.org {#2026-haskellorg}
-
-- **Technologies**: JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/haskellorg)
-- **Website**: [Visit Website](https://haskell.org/)
+- **Technologies**: CSS, HTML, JavaScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/neutralinojs)
+- **Website**: [Visit Website](https://neutralino.js.org)
 
 <br>
 
-### 10. Python Software Foundation {#2026-python-software-foundation}
+### 3. Graphite {#2026-graphite}
+
+- **Technologies**: Node.js
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/graphite)
+- **Website**: [Visit Website](https://graphite.art)
+
+<br>
+
+### 4. Joomla! {#2026-joomla!}
 
 - **Technologies**: HTML
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/python-software-foundation)
-- **Website**: [Visit Website](https://python-gsoc.org/)
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/joomla)
+- **Website**: [Visit Website](https://www.joomla.org/)
 
 <br>
 
-### 11. Git {#2026-git}
+### 5. National Resource for Network Biology (NRNB) {#2026-national-resource-for-network-biology-(nrnb)}
+
+- **Technologies**: HTML
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/national-resource-for-network-biology-nrnb)
+- **Website**: [Visit Website](https://nrnb.org)
+
+<br>
+
+### 6. Boa {#2026-boa}
+
+- **Technologies**: JavaScript, Node.js
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/boa)
+- **Website**: [Visit Website](https://boajs.dev/)
+
+<br>
+
+### 7. stdlib {#2026-stdlib}
+
+- **Technologies**: JavaScript, Node.js
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/stdlib)
+- **Website**: [Visit Website](https://stdlib.io)
+
+<br>
+
+### 8. Git {#2026-git}
 
 - **Technologies**: Ruby on Rails
 - **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/git)
 - **Website**: [Visit Website](https://git-scm.com/)
+
+<br>
+
+### 9. Alaska {#2026-alaska}
+
+- **Technologies**: REST API
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/alaska)
+- **Website**: [Visit Website](https://www.uaa.alaska.edu/research)
+
+<br>
+
+### 10. JdeRobot {#2026-jderobot}
+
+- **Technologies**: JavaScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/jderobot)
+- **Website**: [Visit Website](http://jderobot.github.io)
+
+<br>
+
+### 11. webpack {#2026-webpack}
+
+- **Technologies**: JavaScript, Node.js, REST API, Webpack
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/webpack)
+- **Website**: [Visit Website](https://webpack.js.org)
 
 <br>
 
@@ -286,23 +286,15 @@
 
 <br>
 
-### 13. stdlib {#2026-stdlib}
+### 13. Jenkins {#2026-jenkins}
 
-- **Technologies**: JavaScript, Node.js
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/stdlib)
-- **Website**: [Visit Website](https://stdlib.io)
-
-<br>
-
-### 14. webpack {#2026-webpack}
-
-- **Technologies**: JavaScript, Node.js, REST API, Webpack
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/webpack)
-- **Website**: [Visit Website](https://webpack.js.org)
+- **Technologies**: JavaScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/jenkins-wp)
+- **Website**: [Visit Website](https://jenkins.io)
 
 <br>
 
-### 15. OpenAstronomy {#2026-openastronomy}
+### 14. OpenAstronomy {#2026-openastronomy}
 
 - **Technologies**: HTML
 - **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/openastronomy)
@@ -310,31 +302,15 @@
 
 <br>
 
-### 16. Boa {#2026-boa}
-
-- **Technologies**: JavaScript, Node.js
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/boa)
-- **Website**: [Visit Website](https://boajs.dev/)
-
-<br>
-
-### 17. Alaska {#2026-alaska}
-
-- **Technologies**: REST API
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/alaska)
-- **Website**: [Visit Website](https://www.uaa.alaska.edu/research)
-
-<br>
-
-### 18. Processing Foundation {#2026-processing-foundation}
+### 15. BRL-CAD {#2026-brl-cad}
 
 - **Technologies**: JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/processing-foundation)
-- **Website**: [Visit Website](http://processingfoundation.org)
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/brl-cad)
+- **Website**: [Visit Website](https://opencax.github.io/)
 
 <br>
 
-### 19. Django Software Foundation {#2026-django-software-foundation}
+### 16. Django Software Foundation {#2026-django-software-foundation}
 
 - **Technologies**: Django
 - **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/django-software-foundation-8o)
@@ -342,27 +318,51 @@
 
 <br>
 
-### 20. JdeRobot {#2026-jderobot}
+### 17. Processing Foundation {#2026-processing-foundation}
 
 - **Technologies**: JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/jderobot)
-- **Website**: [Visit Website](http://jderobot.github.io)
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/processing-foundation)
+- **Website**: [Visit Website](http://processingfoundation.org)
 
 <br>
 
-### 21. National Resource for Network Biology (NRNB) {#2026-national-resource-for-network-biology-(nrnb)}
+### 18. API Dash {#2026-api-dash}
 
-- **Technologies**: HTML
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/national-resource-for-network-biology-nrnb)
-- **Website**: [Visit Website](https://nrnb.org)
+- **Technologies**: GraphQL, Node.js, React, TypeScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/api-dash)
+- **Website**: [Visit Website](https://apidash.dev)
 
 <br>
 
-### 22. Joomla! {#2026-joomla!}
+### 19. Haskell.org {#2026-haskellorg}
+
+- **Technologies**: JavaScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/haskellorg)
+- **Website**: [Visit Website](https://haskell.org/)
+
+<br>
+
+### 20. Python Software Foundation {#2026-python-software-foundation}
 
 - **Technologies**: HTML
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/joomla)
-- **Website**: [Visit Website](https://www.joomla.org/)
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/python-software-foundation)
+- **Website**: [Visit Website](https://python-gsoc.org/)
+
+<br>
+
+### 21. MetaCall {#2026-metacall}
+
+- **Technologies**: Node.js
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/metacall)
+- **Website**: [Visit Website](https://metacall.io)
+
+<br>
+
+### 22. rocket.chat {#2026-rocketchat}
+
+- **Technologies**: Node.js, TypeScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2026/organizations/rocketchat)
+- **Website**: [Visit Website](https://github.com/RocketChat)
 
 <br>
 
@@ -376,27 +376,27 @@
 
 <br>
 
-### 2. stdlib {#2025-stdlib}
+### 2. OpenAstronomy {#2025-openastronomy}
 
-- **Technologies**: JavaScript, Node.js
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/stdlib)
-- **Website**: [Visit Website](https://stdlib.io)
+- **Technologies**: HTML
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/openastronomy)
+- **Website**: [Visit Website](https://openastronomy.org/)
 
 <br>
 
-### 3. BRL-CAD {#2025-brl-cad}
+### 3. Haskell.org {#2025-haskellorg}
 
 - **Technologies**: JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/brl-cad)
-- **Website**: [Visit Website](https://opencax.github.io/)
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/haskellorg)
+- **Website**: [Visit Website](https://haskell.org/)
 
 <br>
 
-### 4. Open Science Initiative for Perfusion Imaging {#2025-open-science-initiative-for-perfusion-imaging}
+### 4. JdeRobot {#2025-jderobot}
 
-- **Technologies**: Less
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/open-science-initiative-for-perfusion-imaging)
-- **Website**: [Visit Website](https://osipi.ismrm.org/)
+- **Technologies**: JavaScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/jderobot)
+- **Website**: [Visit Website](http://jderobot.github.io)
 
 <br>
 
@@ -408,23 +408,7 @@
 
 <br>
 
-### 6. freifunk {#2025-freifunk}
-
-- **Technologies**: Babel
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/freifunk)
-- **Website**: [Visit Website](https://freifunk.net/en)
-
-<br>
-
-### 7. Plone Foundation {#2025-plone-foundation}
-
-- **Technologies**: React
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/plone-foundation)
-- **Website**: [Visit Website](https://plone.org)
-
-<br>
-
-### 8. Alaska {#2025-alaska}
+### 6. Alaska {#2025-alaska}
 
 - **Technologies**: REST API
 - **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/alaska)
@@ -432,19 +416,35 @@
 
 <br>
 
-### 9. Checker Framework {#2025-checker-framework}
+### 7. Git {#2025-git}
 
-- **Technologies**: HTML
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/checker-framework)
-- **Website**: [Visit Website](https://checkerframework.org/)
+- **Technologies**: Ruby on Rails
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/git)
+- **Website**: [Visit Website](https://git-scm.com/)
 
 <br>
 
-### 10. rocket.chat {#2025-rocketchat}
+### 8. Jenkins {#2025-jenkins}
 
-- **Technologies**: Node.js, TypeScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/rocketchat)
-- **Website**: [Visit Website](https://github.com/RocketChat)
+- **Technologies**: JavaScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/jenkins-wp)
+- **Website**: [Visit Website](https://jenkins.io)
+
+<br>
+
+### 9. Python Software Foundation {#2025-python-software-foundation}
+
+- **Technologies**: HTML
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/python-software-foundation)
+- **Website**: [Visit Website](https://python-gsoc.org/)
+
+<br>
+
+### 10. BRL-CAD {#2025-brl-cad}
+
+- **Technologies**: JavaScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/brl-cad)
+- **Website**: [Visit Website](https://opencax.github.io/)
 
 <br>
 
@@ -456,31 +456,7 @@
 
 <br>
 
-### 12. Jenkins {#2025-jenkins}
-
-- **Technologies**: JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/jenkins-wp)
-- **Website**: [Visit Website](https://jenkins.io)
-
-<br>
-
-### 13. API Dash {#2025-api-dash}
-
-- **Technologies**: GraphQL, Node.js, React, TypeScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/api-dash)
-- **Website**: [Visit Website](https://apidash.dev)
-
-<br>
-
-### 14. Joomla! {#2025-joomla!}
-
-- **Technologies**: HTML
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/joomla)
-- **Website**: [Visit Website](https://www.joomla.org/)
-
-<br>
-
-### 15. Processing Foundation {#2025-processing-foundation}
+### 12. Processing Foundation {#2025-processing-foundation}
 
 - **Technologies**: JavaScript
 - **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/processing-foundation)
@@ -488,55 +464,39 @@
 
 <br>
 
-### 16. Python Software Foundation {#2025-python-software-foundation}
+### 13. Plone Foundation {#2025-plone-foundation}
+
+- **Technologies**: React
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/plone-foundation)
+- **Website**: [Visit Website](https://plone.org)
+
+<br>
+
+### 14. API Dash {#2025-api-dash}
+
+- **Technologies**: GraphQL, Node.js, React, TypeScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/api-dash)
+- **Website**: [Visit Website](https://apidash.dev)
+
+<br>
+
+### 15. Joomla! {#2025-joomla!}
 
 - **Technologies**: HTML
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/python-software-foundation)
-- **Website**: [Visit Website](https://python-gsoc.org/)
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/joomla)
+- **Website**: [Visit Website](https://www.joomla.org/)
 
 <br>
 
-### 17. Git {#2025-git}
+### 16. freifunk {#2025-freifunk}
 
-- **Technologies**: Ruby on Rails
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/git)
-- **Website**: [Visit Website](https://git-scm.com/)
-
-<br>
-
-### 18. OpenAstronomy {#2025-openastronomy}
-
-- **Technologies**: HTML
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/openastronomy)
-- **Website**: [Visit Website](https://openastronomy.org/)
+- **Technologies**: Babel
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/freifunk)
+- **Website**: [Visit Website](https://freifunk.net/en)
 
 <br>
 
-### 19. webpack {#2025-webpack}
-
-- **Technologies**: JavaScript, Node.js, REST API, Webpack
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/webpack)
-- **Website**: [Visit Website](https://webpack.js.org)
-
-<br>
-
-### 20. Haskell.org {#2025-haskellorg}
-
-- **Technologies**: JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/haskellorg)
-- **Website**: [Visit Website](https://haskell.org/)
-
-<br>
-
-### 21. JdeRobot {#2025-jderobot}
-
-- **Technologies**: JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/jderobot)
-- **Website**: [Visit Website](http://jderobot.github.io)
-
-<br>
-
-### 22. Electron {#2025-electron}
+### 17. Electron {#2025-electron}
 
 - **Technologies**: CSS, HTML, JavaScript, Node.js
 - **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/electron)
@@ -544,185 +504,49 @@
 
 <br>
 
-## 📋 GSoC 2024 - Organization Details
-
-### 1. rocket.chat {#2024-rocketchat}
+### 18. rocket.chat {#2025-rocketchat}
 
 - **Technologies**: Node.js, TypeScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/rocketchat)
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/rocketchat)
 - **Website**: [Visit Website](https://github.com/RocketChat)
 
 <br>
 
-### 2. JdeRobot {#2024-jderobot}
-
-- **Technologies**: JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/jderobot)
-- **Website**: [Visit Website](http://jderobot.github.io)
-
-<br>
-
-### 3. API Dash {#2024-api-dash}
-
-- **Technologies**: GraphQL, Node.js, React, TypeScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/api-dash)
-- **Website**: [Visit Website](https://apidash.dev)
-
-<br>
-
-### 4. Alaska {#2024-alaska}
-
-- **Technologies**: REST API
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/alaska)
-- **Website**: [Visit Website](https://www.uaa.alaska.edu/research)
-
-<br>
-
-### 5. Haskell.org {#2024-haskellorg}
-
-- **Technologies**: JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/haskellorg)
-- **Website**: [Visit Website](https://haskell.org/)
-
-<br>
-
-### 6. National Resource for Network Biology (NRNB) {#2024-national-resource-for-network-biology-(nrnb)}
-
-- **Technologies**: HTML
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/national-resource-for-network-biology-nrnb)
-- **Website**: [Visit Website](https://nrnb.org)
-
-<br>
-
-### 7. Nightwatch.js {#2024-nightwatchjs}
-
-- **Technologies**: Angular, JavaScript, Node.js, React, Vue.js
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/nightwatchjs)
-- **Website**: [Visit Website](https://nightwatchjs.org)
-
-<br>
-
-### 8. OpenAstronomy {#2024-openastronomy}
-
-- **Technologies**: HTML
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/openastronomy)
-- **Website**: [Visit Website](https://openastronomy.org/)
-
-<br>
-
-### 9. freifunk {#2024-freifunk}
-
-- **Technologies**: Babel
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/freifunk)
-- **Website**: [Visit Website](https://freifunk.net/en)
-
-<br>
-
-### 10. Open Chemistry {#2024-open-chemistry}
-
-- **Technologies**: Babel
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/open-chemistry)
-- **Website**: [Visit Website](https://openchemistry.org/)
-
-<br>
-
-### 11. Jenkins {#2024-jenkins}
-
-- **Technologies**: JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/jenkins-wp)
-- **Website**: [Visit Website](https://jenkins.io)
-
-<br>
-
-### 12. Polypheny {#2024-polypheny}
-
-- **Technologies**: REST API
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/polypheny)
-- **Website**: [Visit Website](https://polypheny.org)
-
-<br>
-
-### 13. Neutralinojs {#2024-neutralinojs}
-
-- **Technologies**: CSS, HTML, JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/neutralinojs)
-- **Website**: [Visit Website](https://neutralino.js.org)
-
-<br>
-
-### 14. Apertium {#2024-apertium}
-
-- **Technologies**: Less
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/apertium)
-- **Website**: [Visit Website](https://apertium.org/)
-
-<br>
-
-### 15. MetaCall {#2024-metacall}
-
-- **Technologies**: Node.js
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/metacall)
-- **Website**: [Visit Website](https://metacall.io)
-
-<br>
-
-### 16. caMicroscope {#2024-camicroscope}
-
-- **Technologies**: HTML
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/camicroscope)
-- **Website**: [Visit Website](https://camicroscope.github.io)
-
-<br>
-
-### 17. stdlib {#2024-stdlib}
+### 19. stdlib {#2025-stdlib}
 
 - **Technologies**: JavaScript, Node.js
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/stdlib)
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/stdlib)
 - **Website**: [Visit Website](https://stdlib.io)
 
 <br>
 
-### 18. Plone Foundation {#2024-plone-foundation}
-
-- **Technologies**: React
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/plone-foundation)
-- **Website**: [Visit Website](https://plone.org)
-
-<br>
-
-### 19. BRL-CAD {#2024-brl-cad}
-
-- **Technologies**: JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/brl-cad)
-- **Website**: [Visit Website](https://opencax.github.io/)
-
-<br>
-
-### 20. Purr Data {#2024-purr-data}
+### 20. Checker Framework {#2025-checker-framework}
 
 - **Technologies**: HTML
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/purr-data)
-- **Website**: [Visit Website](https://www.purrdata.net/)
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/checker-framework)
+- **Website**: [Visit Website](https://checkerframework.org/)
 
 <br>
 
-### 21. Python Software Foundation {#2024-python-software-foundation}
+### 21. webpack {#2025-webpack}
 
-- **Technologies**: HTML
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/python-software-foundation)
-- **Website**: [Visit Website](https://python-gsoc.org/)
-
-<br>
-
-### 22. Electron {#2024-electron}
-
-- **Technologies**: CSS, HTML, JavaScript, Node.js
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/electron)
-- **Website**: [Visit Website](https://electronjs.org)
+- **Technologies**: JavaScript, Node.js, REST API, Webpack
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/webpack)
+- **Website**: [Visit Website](https://webpack.js.org)
 
 <br>
 
-### 23. The ENIGMA Team {#2024-the-enigma-team}
+### 22. Open Science Initiative for Perfusion Imaging {#2025-open-science-initiative-for-perfusion-imaging}
+
+- **Technologies**: Less
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2025/organizations/open-science-initiative-for-perfusion-imaging)
+- **Website**: [Visit Website](https://osipi.ismrm.org/)
+
+<br>
+
+## 📋 GSoC 2024 - Organization Details
+
+### 1. The ENIGMA Team {#2024-the-enigma-team}
 
 - **Technologies**: JavaScript
 - **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/the-enigma-team)
@@ -730,15 +554,15 @@
 
 <br>
 
-### 24. Django Software Foundation {#2024-django-software-foundation}
+### 2. National Resource for Network Biology (NRNB) {#2024-national-resource-for-network-biology-(nrnb)}
 
-- **Technologies**: Django
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/django-software-foundation-8o)
-- **Website**: [Visit Website](https://www.djangoproject.com)
+- **Technologies**: HTML
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/national-resource-for-network-biology-nrnb)
+- **Website**: [Visit Website](https://nrnb.org)
 
 <br>
 
-### 25. Open Science Initiative for Perfusion Imaging {#2024-open-science-initiative-for-perfusion-imaging}
+### 3. Open Science Initiative for Perfusion Imaging {#2024-open-science-initiative-for-perfusion-imaging}
 
 - **Technologies**: Less
 - **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/open-science-initiative-for-perfusion-imaging)
@@ -746,7 +570,39 @@
 
 <br>
 
-### 26. Git {#2024-git}
+### 4. Python Software Foundation {#2024-python-software-foundation}
+
+- **Technologies**: HTML
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/python-software-foundation)
+- **Website**: [Visit Website](https://python-gsoc.org/)
+
+<br>
+
+### 5. Apertium {#2024-apertium}
+
+- **Technologies**: Less
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/apertium)
+- **Website**: [Visit Website](https://apertium.org/)
+
+<br>
+
+### 6. OpenAstronomy {#2024-openastronomy}
+
+- **Technologies**: HTML
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/openastronomy)
+- **Website**: [Visit Website](https://openastronomy.org/)
+
+<br>
+
+### 7. Haskell.org {#2024-haskellorg}
+
+- **Technologies**: JavaScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/haskellorg)
+- **Website**: [Visit Website](https://haskell.org/)
+
+<br>
+
+### 8. Git {#2024-git}
 
 - **Technologies**: Ruby on Rails
 - **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/git)
@@ -754,7 +610,7 @@
 
 <br>
 
-### 27. Graphite {#2024-graphite}
+### 9. Graphite {#2024-graphite}
 
 - **Technologies**: Node.js
 - **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/graphite)
@@ -762,7 +618,39 @@
 
 <br>
 
-### 28. webpack {#2024-webpack}
+### 10. caMicroscope {#2024-camicroscope}
+
+- **Technologies**: HTML
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/camicroscope)
+- **Website**: [Visit Website](https://camicroscope.github.io)
+
+<br>
+
+### 11. Polypheny {#2024-polypheny}
+
+- **Technologies**: REST API
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/polypheny)
+- **Website**: [Visit Website](https://polypheny.org)
+
+<br>
+
+### 12. MetaCall {#2024-metacall}
+
+- **Technologies**: Node.js
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/metacall)
+- **Website**: [Visit Website](https://metacall.io)
+
+<br>
+
+### 13. Plone Foundation {#2024-plone-foundation}
+
+- **Technologies**: React
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/plone-foundation)
+- **Website**: [Visit Website](https://plone.org)
+
+<br>
+
+### 14. webpack {#2024-webpack}
 
 - **Technologies**: JavaScript, Node.js, REST API, Webpack
 - **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/webpack)
@@ -770,65 +658,137 @@
 
 <br>
 
-## 📋 GSoC 2023 - Organization Details
+### 15. Electron {#2024-electron}
 
-### 1. Jenkins {#2023-jenkins}
-
-- **Technologies**: JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/jenkins-wp)
-- **Website**: [Visit Website](https://jenkins.io)
+- **Technologies**: CSS, HTML, JavaScript, Node.js
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/electron)
+- **Website**: [Visit Website](https://electronjs.org)
 
 <br>
 
-### 2. BRL-CAD {#2023-brl-cad}
-
-- **Technologies**: JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/brl-cad)
-- **Website**: [Visit Website](https://opencax.github.io/)
-
-<br>
-
-### 3. Plone Foundation {#2023-plone-foundation}
-
-- **Technologies**: React
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/plone-foundation)
-- **Website**: [Visit Website](https://plone.org)
-
-<br>
-
-### 4. Apertium {#2023-apertium}
-
-- **Technologies**: Less
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/apertium)
-- **Website**: [Visit Website](https://apertium.org/)
-
-<br>
-
-### 5. Processing Foundation {#2023-processing-foundation}
-
-- **Technologies**: JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/processing-foundation)
-- **Website**: [Visit Website](http://processingfoundation.org)
-
-<br>
-
-### 6. Purr Data {#2023-purr-data}
+### 16. Purr Data {#2024-purr-data}
 
 - **Technologies**: HTML
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/purr-data)
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/purr-data)
 - **Website**: [Visit Website](https://www.purrdata.net/)
 
 <br>
 
-### 7. Open Chemistry {#2023-open-chemistry}
+### 17. API Dash {#2024-api-dash}
+
+- **Technologies**: GraphQL, Node.js, React, TypeScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/api-dash)
+- **Website**: [Visit Website](https://apidash.dev)
+
+<br>
+
+### 18. Nightwatch.js {#2024-nightwatchjs}
+
+- **Technologies**: Angular, JavaScript, Node.js, React, Vue.js
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/nightwatchjs)
+- **Website**: [Visit Website](https://nightwatchjs.org)
+
+<br>
+
+### 19. rocket.chat {#2024-rocketchat}
+
+- **Technologies**: Node.js, TypeScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/rocketchat)
+- **Website**: [Visit Website](https://github.com/RocketChat)
+
+<br>
+
+### 20. stdlib {#2024-stdlib}
+
+- **Technologies**: JavaScript, Node.js
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/stdlib)
+- **Website**: [Visit Website](https://stdlib.io)
+
+<br>
+
+### 21. Jenkins {#2024-jenkins}
+
+- **Technologies**: JavaScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/jenkins-wp)
+- **Website**: [Visit Website](https://jenkins.io)
+
+<br>
+
+### 22. Django Software Foundation {#2024-django-software-foundation}
+
+- **Technologies**: Django
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/django-software-foundation-8o)
+- **Website**: [Visit Website](https://www.djangoproject.com)
+
+<br>
+
+### 23. Alaska {#2024-alaska}
+
+- **Technologies**: REST API
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/alaska)
+- **Website**: [Visit Website](https://www.uaa.alaska.edu/research)
+
+<br>
+
+### 24. BRL-CAD {#2024-brl-cad}
+
+- **Technologies**: JavaScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/brl-cad)
+- **Website**: [Visit Website](https://opencax.github.io/)
+
+<br>
+
+### 25. Open Chemistry {#2024-open-chemistry}
 
 - **Technologies**: Babel
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/open-chemistry)
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/open-chemistry)
 - **Website**: [Visit Website](https://openchemistry.org/)
 
 <br>
 
-### 8. MZmine and MS-DIAL {#2023-mzmine-and-ms-dial}
+### 26. freifunk {#2024-freifunk}
+
+- **Technologies**: Babel
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/freifunk)
+- **Website**: [Visit Website](https://freifunk.net/en)
+
+<br>
+
+### 27. JdeRobot {#2024-jderobot}
+
+- **Technologies**: JavaScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/jderobot)
+- **Website**: [Visit Website](http://jderobot.github.io)
+
+<br>
+
+### 28. Neutralinojs {#2024-neutralinojs}
+
+- **Technologies**: CSS, HTML, JavaScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2024/organizations/neutralinojs)
+- **Website**: [Visit Website](https://neutralino.js.org)
+
+<br>
+
+## 📋 GSoC 2023 - Organization Details
+
+### 1. freifunk {#2023-freifunk}
+
+- **Technologies**: Babel
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/freifunk)
+- **Website**: [Visit Website](https://freifunk.net/en)
+
+<br>
+
+### 2. Git {#2023-git}
+
+- **Technologies**: Ruby on Rails
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/git)
+- **Website**: [Visit Website](https://git-scm.com/)
+
+<br>
+
+### 3. MZmine and MS-DIAL {#2023-mzmine-and-ms-dial}
 
 - **Technologies**: HTML
 - **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/mzmine-and-ms-dial)
@@ -836,39 +796,15 @@
 
 <br>
 
-### 9. The ENIGMA Team {#2023-the-enigma-team}
+### 4. BRL-CAD {#2023-brl-cad}
 
 - **Technologies**: JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/the-enigma-team)
-- **Website**: [Visit Website](https://enigma-dev.org)
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/brl-cad)
+- **Website**: [Visit Website](https://opencax.github.io/)
 
 <br>
 
-### 10. MetaCall {#2023-metacall}
-
-- **Technologies**: Node.js
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/metacall)
-- **Website**: [Visit Website](https://metacall.io)
-
-<br>
-
-### 11. XWiki {#2023-xwiki}
-
-- **Technologies**: CSS, HTML, JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/xwiki)
-- **Website**: [Visit Website](https://www.xwiki.org/)
-
-<br>
-
-### 12. National Resource for Network Biology (NRNB) {#2023-national-resource-for-network-biology-(nrnb)}
-
-- **Technologies**: HTML
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/national-resource-for-network-biology-nrnb)
-- **Website**: [Visit Website](https://nrnb.org)
-
-<br>
-
-### 13. rocket.chat {#2023-rocketchat}
+### 5. rocket.chat {#2023-rocketchat}
 
 - **Technologies**: Node.js, TypeScript
 - **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/rocketchat)
@@ -876,11 +812,75 @@
 
 <br>
 
-### 14. Git {#2023-git}
+### 6. Apertium {#2023-apertium}
 
-- **Technologies**: Ruby on Rails
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/git)
-- **Website**: [Visit Website](https://git-scm.com/)
+- **Technologies**: Less
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/apertium)
+- **Website**: [Visit Website](https://apertium.org/)
+
+<br>
+
+### 7. caMicroscope {#2023-camicroscope}
+
+- **Technologies**: HTML
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/camicroscope)
+- **Website**: [Visit Website](https://camicroscope.github.io)
+
+<br>
+
+### 8. MetaCall {#2023-metacall}
+
+- **Technologies**: Node.js
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/metacall)
+- **Website**: [Visit Website](https://metacall.io)
+
+<br>
+
+### 9. Django Software Foundation {#2023-django-software-foundation}
+
+- **Technologies**: Django
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/django-software-foundation-8o)
+- **Website**: [Visit Website](https://www.djangoproject.com)
+
+<br>
+
+### 10. Plone Foundation {#2023-plone-foundation}
+
+- **Technologies**: React
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/plone-foundation)
+- **Website**: [Visit Website](https://plone.org)
+
+<br>
+
+### 11. The ENIGMA Team {#2023-the-enigma-team}
+
+- **Technologies**: JavaScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/the-enigma-team)
+- **Website**: [Visit Website](https://enigma-dev.org)
+
+<br>
+
+### 12. Processing Foundation {#2023-processing-foundation}
+
+- **Technologies**: JavaScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/processing-foundation)
+- **Website**: [Visit Website](http://processingfoundation.org)
+
+<br>
+
+### 13. National Resource for Network Biology (NRNB) {#2023-national-resource-for-network-biology-(nrnb)}
+
+- **Technologies**: HTML
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/national-resource-for-network-biology-nrnb)
+- **Website**: [Visit Website](https://nrnb.org)
+
+<br>
+
+### 14. Open Chemistry {#2023-open-chemistry}
+
+- **Technologies**: Babel
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/open-chemistry)
+- **Website**: [Visit Website](https://openchemistry.org/)
 
 <br>
 
@@ -892,7 +892,15 @@
 
 <br>
 
-### 16. JdeRobot {#2023-jderobot}
+### 16. Purr Data {#2023-purr-data}
+
+- **Technologies**: HTML
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/purr-data)
+- **Website**: [Visit Website](https://www.purrdata.net/)
+
+<br>
+
+### 17. JdeRobot {#2023-jderobot}
 
 - **Technologies**: JavaScript
 - **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/jderobot)
@@ -900,27 +908,19 @@
 
 <br>
 
-### 17. freifunk {#2023-freifunk}
+### 18. Jenkins {#2023-jenkins}
 
-- **Technologies**: Babel
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/freifunk)
-- **Website**: [Visit Website](https://freifunk.net/en)
-
-<br>
-
-### 18. caMicroscope {#2023-camicroscope}
-
-- **Technologies**: HTML
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/camicroscope)
-- **Website**: [Visit Website](https://camicroscope.github.io)
+- **Technologies**: JavaScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/jenkins-wp)
+- **Website**: [Visit Website](https://jenkins.io)
 
 <br>
 
-### 19. Django Software Foundation {#2023-django-software-foundation}
+### 19. XWiki {#2023-xwiki}
 
-- **Technologies**: Django
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/django-software-foundation-8o)
-- **Website**: [Visit Website](https://www.djangoproject.com)
+- **Technologies**: CSS, HTML, JavaScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2023/organizations/xwiki)
+- **Website**: [Visit Website](https://www.xwiki.org/)
 
 <br>
 
@@ -934,39 +934,15 @@
 
 ## 📋 GSoC 2022 - Organization Details
 
-### 1. Polypheny {#2022-polypheny}
-
-- **Technologies**: REST API
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/polypheny)
-- **Website**: [Visit Website](https://polypheny.org)
-
-<br>
-
-### 2. Weaviate {#2022-weaviate}
-
-- **Technologies**: GraphQL, REST API
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/weaviate)
-- **Website**: [Visit Website](https://weaviate.io)
-
-<br>
-
-### 3. National Resource for Network Biology (NRNB) {#2022-national-resource-for-network-biology-(nrnb)}
+### 1. OpenAstronomy {#2022-openastronomy}
 
 - **Technologies**: HTML
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/national-resource-for-network-biology-nrnb)
-- **Website**: [Visit Website](https://nrnb.org)
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/openastronomy)
+- **Website**: [Visit Website](https://openastronomy.org/)
 
 <br>
 
-### 4. Jenkins {#2022-jenkins}
-
-- **Technologies**: JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/jenkins-wp)
-- **Website**: [Visit Website](https://jenkins.io)
-
-<br>
-
-### 5. Processing Foundation {#2022-processing-foundation}
+### 2. Processing Foundation {#2022-processing-foundation}
 
 - **Technologies**: JavaScript
 - **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/processing-foundation)
@@ -974,71 +950,31 @@
 
 <br>
 
-### 6. Git {#2022-git}
-
-- **Technologies**: Ruby on Rails
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/git)
-- **Website**: [Visit Website](https://git-scm.com/)
-
-<br>
-
-### 7. JdeRobot {#2022-jderobot}
+### 3. Jenkins {#2022-jenkins}
 
 - **Technologies**: JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/jderobot)
-- **Website**: [Visit Website](http://jderobot.github.io)
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/jenkins-wp)
+- **Website**: [Visit Website](https://jenkins.io)
 
 <br>
 
-### 8. Casbin {#2022-casbin}
-
-- **Technologies**: JavaScript, Node.js
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/casbin)
-- **Website**: [Visit Website](https://casbin.org)
-
-<br>
-
-### 9. Open Chemistry {#2022-open-chemistry}
-
-- **Technologies**: Babel
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/open-chemistry)
-- **Website**: [Visit Website](https://openchemistry.org/)
-
-<br>
-
-### 10. SeaQL {#2022-seaql}
-
-- **Technologies**: GraphQL
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/seaql)
-- **Website**: [Visit Website](https://www.sea-ql.org)
-
-<br>
-
-### 11. Django Software Foundation {#2022-django-software-foundation}
-
-- **Technologies**: Django
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/django-software-foundation-8o)
-- **Website**: [Visit Website](https://www.djangoproject.com)
-
-<br>
-
-### 12. rocket.chat {#2022-rocketchat}
-
-- **Technologies**: Node.js, TypeScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/rocketchat)
-- **Website**: [Visit Website](https://github.com/RocketChat)
-
-<br>
-
-### 13. Forschungszentrum Jülich {#2022-forschungszentrum-jülich}
+### 4. MetaCall {#2022-metacall}
 
 - **Technologies**: Node.js
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/forschungszentrum-julich)
-- **Website**: [Visit Website](https://fz-juelich.de/en)
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/metacall)
+- **Website**: [Visit Website](https://metacall.io)
 
 <br>
 
-### 14. Haskell.org {#2022-haskellorg}
+### 5. freifunk {#2022-freifunk}
+
+- **Technologies**: Babel
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/freifunk)
+- **Website**: [Visit Website](https://freifunk.net/en)
+
+<br>
+
+### 6. Haskell.org {#2022-haskellorg}
 
 - **Technologies**: JavaScript
 - **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/haskellorg)
@@ -1046,15 +982,71 @@
 
 <br>
 
-### 15. Python Software Foundation {#2022-python-software-foundation}
+### 7. Polypheny {#2022-polypheny}
 
-- **Technologies**: HTML
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/python-software-foundation)
-- **Website**: [Visit Website](https://python-gsoc.org/)
+- **Technologies**: REST API
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/polypheny)
+- **Website**: [Visit Website](https://polypheny.org)
 
 <br>
 
-### 16. JBoss Community {#2022-jboss-community}
+### 8. Django Software Foundation {#2022-django-software-foundation}
+
+- **Technologies**: Django
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/django-software-foundation-8o)
+- **Website**: [Visit Website](https://www.djangoproject.com)
+
+<br>
+
+### 9. SeaQL {#2022-seaql}
+
+- **Technologies**: GraphQL
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/seaql)
+- **Website**: [Visit Website](https://www.sea-ql.org)
+
+<br>
+
+### 10. Forschungszentrum Jülich {#2022-forschungszentrum-jülich}
+
+- **Technologies**: Node.js
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/forschungszentrum-julich)
+- **Website**: [Visit Website](https://fz-juelich.de/en)
+
+<br>
+
+### 11. The ENIGMA Team {#2022-the-enigma-team}
+
+- **Technologies**: JavaScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/the-enigma-team)
+- **Website**: [Visit Website](https://enigma-dev.org)
+
+<br>
+
+### 12. Git {#2022-git}
+
+- **Technologies**: Ruby on Rails
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/git)
+- **Website**: [Visit Website](https://git-scm.com/)
+
+<br>
+
+### 13. syslog-ng {#2022-syslog-ng}
+
+- **Technologies**: JavaScript, REST API
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/syslog-ng)
+- **Website**: [Visit Website](https://www.syslog-ng.com/)
+
+<br>
+
+### 14. Open Chemistry {#2022-open-chemistry}
+
+- **Technologies**: Babel
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/open-chemistry)
+- **Website**: [Visit Website](https://openchemistry.org/)
+
+<br>
+
+### 15. JBoss Community {#2022-jboss-community}
 
 - **Technologies**: Node.js
 - **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/jboss-community)
@@ -1062,47 +1054,15 @@
 
 <br>
 
-### 17. Electron {#2022-electron}
+### 16. Casbin {#2022-casbin}
 
-- **Technologies**: CSS, HTML, JavaScript, Node.js
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/electron)
-- **Website**: [Visit Website](https://electronjs.org)
-
-<br>
-
-### 18. FRRouting {#2022-frrouting}
-
-- **Technologies**: Babel
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/frrouting)
-- **Website**: [Visit Website](https://frrouting.org/)
+- **Technologies**: JavaScript, Node.js
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/casbin)
+- **Website**: [Visit Website](https://casbin.org)
 
 <br>
 
-### 19. Purr Data {#2022-purr-data}
-
-- **Technologies**: HTML
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/purr-data)
-- **Website**: [Visit Website](https://www.purrdata.net/)
-
-<br>
-
-### 20. BRL-CAD {#2022-brl-cad}
-
-- **Technologies**: JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/brl-cad)
-- **Website**: [Visit Website](https://opencax.github.io/)
-
-<br>
-
-### 21. Godot Engine {#2022-godot-engine}
-
-- **Technologies**: HTML
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/godot-engine)
-- **Website**: [Visit Website](https://godotengine.org)
-
-<br>
-
-### 22. Neutralinojs {#2022-neutralinojs}
+### 17. Neutralinojs {#2022-neutralinojs}
 
 - **Technologies**: CSS, HTML, JavaScript
 - **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/neutralinojs)
@@ -1110,19 +1070,59 @@
 
 <br>
 
-### 23. Matrix.org {#2022-matrixorg}
+### 18. Plone Foundation {#2022-plone-foundation}
 
-- **Technologies**: WebRTC
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/matrixorg)
-- **Website**: [Visit Website](https://matrix.org)
+- **Technologies**: React
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/plone-foundation)
+- **Website**: [Visit Website](https://plone.org)
 
 <br>
 
-### 24. MetaCall {#2022-metacall}
+### 19. JdeRobot {#2022-jderobot}
 
-- **Technologies**: Node.js
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/metacall)
-- **Website**: [Visit Website](https://metacall.io)
+- **Technologies**: JavaScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/jderobot)
+- **Website**: [Visit Website](http://jderobot.github.io)
+
+<br>
+
+### 20. Purr Data {#2022-purr-data}
+
+- **Technologies**: HTML
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/purr-data)
+- **Website**: [Visit Website](https://www.purrdata.net/)
+
+<br>
+
+### 21. Weaviate {#2022-weaviate}
+
+- **Technologies**: GraphQL, REST API
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/weaviate)
+- **Website**: [Visit Website](https://weaviate.io)
+
+<br>
+
+### 22. rocket.chat {#2022-rocketchat}
+
+- **Technologies**: Node.js, TypeScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/rocketchat)
+- **Website**: [Visit Website](https://github.com/RocketChat)
+
+<br>
+
+### 23. XWiki {#2022-xwiki}
+
+- **Technologies**: CSS, HTML, JavaScript
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/xwiki)
+- **Website**: [Visit Website](https://www.xwiki.org/)
+
+<br>
+
+### 24. FRRouting {#2022-frrouting}
+
+- **Technologies**: Babel
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/frrouting)
+- **Website**: [Visit Website](https://frrouting.org/)
 
 <br>
 
@@ -1134,51 +1134,51 @@
 
 <br>
 
-### 26. freifunk {#2022-freifunk}
+### 26. Electron {#2022-electron}
 
-- **Technologies**: Babel
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/freifunk)
-- **Website**: [Visit Website](https://freifunk.net/en)
-
-<br>
-
-### 27. syslog-ng {#2022-syslog-ng}
-
-- **Technologies**: JavaScript, REST API
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/syslog-ng)
-- **Website**: [Visit Website](https://www.syslog-ng.com/)
+- **Technologies**: CSS, HTML, JavaScript, Node.js
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/electron)
+- **Website**: [Visit Website](https://electronjs.org)
 
 <br>
 
-### 28. XWiki {#2022-xwiki}
-
-- **Technologies**: CSS, HTML, JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/xwiki)
-- **Website**: [Visit Website](https://www.xwiki.org/)
-
-<br>
-
-### 29. Plone Foundation {#2022-plone-foundation}
-
-- **Technologies**: React
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/plone-foundation)
-- **Website**: [Visit Website](https://plone.org)
-
-<br>
-
-### 30. OpenAstronomy {#2022-openastronomy}
+### 27. Godot Engine {#2022-godot-engine}
 
 - **Technologies**: HTML
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/openastronomy)
-- **Website**: [Visit Website](https://openastronomy.org/)
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/godot-engine)
+- **Website**: [Visit Website](https://godotengine.org)
 
 <br>
 
-### 31. The ENIGMA Team {#2022-the-enigma-team}
+### 28. Python Software Foundation {#2022-python-software-foundation}
+
+- **Technologies**: HTML
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/python-software-foundation)
+- **Website**: [Visit Website](https://python-gsoc.org/)
+
+<br>
+
+### 29. National Resource for Network Biology (NRNB) {#2022-national-resource-for-network-biology-(nrnb)}
+
+- **Technologies**: HTML
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/national-resource-for-network-biology-nrnb)
+- **Website**: [Visit Website](https://nrnb.org)
+
+<br>
+
+### 30. Matrix.org {#2022-matrixorg}
+
+- **Technologies**: WebRTC
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/matrixorg)
+- **Website**: [Visit Website](https://matrix.org)
+
+<br>
+
+### 31. BRL-CAD {#2022-brl-cad}
 
 - **Technologies**: JavaScript
-- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/the-enigma-team)
-- **Website**: [Visit Website](https://enigma-dev.org)
+- **GSoC URL**: [View on GSoC](https://summerofcode.withgoogle.com/programs/2022/organizations/brl-cad)
+- **Website**: [Visit Website](https://opencax.github.io/)
 
 <br>
 
@@ -1196,7 +1196,7 @@
 
 ## 🔧 Technical Details
 
-- **Last Updated**: 2026-06-01 10:51:35
+- **Last Updated**: 2026-06-08 10:40:55
 - **Data Source**: Google Summer of Code Official API
 - **Web Technologies Detected**: angular, asp.net, babel, bootstrap, css, d3.js, django, express, fastapi, flask, graphql, html, javascript, jest, jquery, laravel, less, mocha, node.js, phoenix, react, react native, rest api, ruby on rails, sass, scss, spring boot, stylus, tailwind, three.js, typescript, vue, webpack, webrtc, websocket
 - **Update Frequency**: Weekly automatic checks
